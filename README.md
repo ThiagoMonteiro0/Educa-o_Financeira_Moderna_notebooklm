@@ -1,6 +1,6 @@
 # Educacao_Financeira_Moderna_notebooklm
 Este caderno temático consolida uma visão ampla da educação financeira, unindo teoria, comportamento e prática. O material evolui de conceitos clássicos para uma abordagem moderna, mais alinhada com a realidade atual, permitindo não apenas entender o dinheiro, mas utilizá-lo de forma estratégica ao longo da vida.
---https://notebooklm.google.com/notebook/c69efa7e-1b6d-4480-9d40-bbec4ea3c63e--
+--https://notebooklm.google.com/notebook/c69efa7e-1b6d-4480-9d40-bbec4ea3c63e
 README — Caderno Temático: Educação Financeira Moderna
 ** Contexto e Objetivos**
 O tema escolhido para este caderno temático foi educação financeira moderna, integrando conceitos clássicos de construção de riqueza com abordagens contemporâneas voltadas ao comportamento, investimentos e qualidade de vida.
